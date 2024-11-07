@@ -2,7 +2,9 @@ In today’s competitive food delivery landscape, data analysis plays a crucial 
 customer preferences, optimizing delivery operations, and enhancing user experience. This project delves into the analysis of Swiggy’s dataset, focusing on key metrics such as order volume, delivery time, peak ordering hours, and customer preferences. By utilizing data analysis tools and techniques, this project aims to uncover patterns that can inform Swiggy’s business decisions, streamline operations, and improve customer satisfaction.
                                  
 FEASIBILITY STUDY 
+
 Power BI Capability Evaluation: 
+
 The feasibility study evaluates the practicality of the Swiggy Data Analysis project by assessing the required resources, potential risks, and expected benefits. It aims to ensure that the project can be completed successfully within the given constraints. 
 
 Technical Feasibility:

@@ -1,57 +1,83 @@
-In today’s competitive food delivery landscape, data analysis plays a crucial role in understanding 
-customer preferences, optimizing delivery operations, and enhancing user experience. This project delves into the analysis of Swiggy’s dataset, focusing on key metrics such as order volume, delivery time, peak ordering hours, and customer preferences. By utilizing data analysis tools and techniques, this project aims to uncover patterns that can inform Swiggy’s business decisions, streamline operations, and improve customer satisfaction.
-                                 
-FEASIBILITY STUDY 
+Swiggy Data Analysis - Power BI Project
 
-Power BI Capability Evaluation: 
+📊 Project Overview
 
-The feasibility study evaluates the practicality of the Swiggy Data Analysis project by assessing the required resources, potential risks, and expected benefits. It aims to ensure that the project can be completed successfully within the given constraints. 
+This Power BI project explores and analyzes Swiggy food delivery data to uncover key trends, customer behaviors, and business insights. The goal is to derive actionable insights from the dataset that can help in understanding Swiggy’s operations, popular cuisines, peak order times, delivery patterns, and customer preferences.
 
-Technical Feasibility:
+🔍 Objectives
+Analyze order patterns and customer behavior
 
-• Data Sources: Evaluate the availability and quality of the dataset required for analysis, including order data, delivery times, and customer feedback. Identify the sources of data (e.g., internal databases, APIs) and ensure they are accessible. 
+Identify most popular restaurants and cuisines
 
-Resource Feasibility: 
+Evaluate delivery performance (time, location, etc.)
 
-• Human Resources: Identify the skills required for the project, including data analysis, 
-programming, and visualization expertise. Determine if the current team has the necessary skills or if training or hiring is needed.
+Determine peak order times and high-demand areas
 
-Economic Feasibility: 
+Provide business recommendations based on data insights
 
-• Cost-Benefit Analysis: Estimate the costs associated with the project, including software licenses, development time, and any additional resources needed. Compare these costs against the expected benefits, such as improved operational efficiency and increased customer satisfaction. 
+🧾 Dataset Description
+The dataset contains information such as:
 
-• Return on Investment (ROI): Analyze how the insights gained from the project can lead to 
-financial benefits, such as reduced delivery times, increased order volumes, and better customer retention. 
+Order ID
 
-Operational Feasibility: 
+Restaurant name
 
-• Integration with Current Systems: Evaluate how the analysis will integrate with Swiggy’s 
-existing operations and systems. Consider the impact on current workflows and processes. 
+Cuisine type
 
-• Stakeholder Support: Assess the level of support and buy-in from key stakeholders, including 
-management, operations, and marketing teams. Effective communication about the project's goals 
-and benefits is crucial for its success. 
+Order date & time
 
-Risk Assessment: 
+Location
 
-• Identify Potential Risks: Highlight risks such as data security concerns, integration challenges, or resistance to adopting new insights. 
+Delivery time
 
-• Mitigation Strategies: Develop strategies to address identified risks, ensuring the project can proceed smoothly. 
+Ratings
 
-Timeline and Implementation Plan: 
+Price
 
-• Project Timeline: Create a timeline that outlines key milestones, including data collection, 
-analysis, and reporting. 
+Note: The dataset used in this project is either publicly available or synthetically generated for analysis purposes.
 
-• Implementation Plan: Define the steps necessary to execute the project, allocate resources, and establish responsibilities within the team. 
-Conclusion and Recommendations: 
+🛠️ Tools Used
+Power BI for data cleaning, transformation, visualization, and dashboarding
 
-Summarize the findings of the feasibility study, concluding whether the project is viable based on the evaluations conducted. If deemed feasible, outline the next steps for project initiation
-                                   
+DAX for calculated measures and KPIs
 
+Power Query for data shaping and preprocessing
 
-FUTURE SCOPE
+📈 Key Insights
+Some of the insights derived from the project include:
 
-The future scope of the Swiggy data analysis project includes several strategic enhancements. 
-Implementing predictive analytics could optimize inventory management by forecasting customer 
-demand, while customer segmentation would enable tailored marketing efforts. Additionally, integrating real-time data analysis could facilitate dynamic responses to market trends, and sentiment analysis on customer feedback could guide service improvements. Exploring these areas will not only enhance operational efficiencies but also significantly improve customer satisfaction and retention in the competitive food delivery market. 
+Peak order hours are between X and Y
+
+The most popular cuisine is Z
+
+Certain locations have higher delivery times
+
+Top-rated restaurants tend to receive more frequent repeat orders
+
+Delivery time impacts customer rating
+
+📸 Dashboard Previews
+![Screenshot 2025-04-29 130547](https://github.com/user-attachments/assets/0ea182b3-b937-4331-a25d-d818e62a25ea)
+![Screenshot 2025-04-29 130613](https://github.com/user-attachments/assets/04673160-92e6-491e-9151-24dd9467fe30)
+
+Sample visualization showing top cuisines ordered
+
+Heatmap of average delivery times by area
+
+💡 Future Enhancements
+Integrate live data using Swiggy’s API (if available)
+
+Add more advanced DAX measures for predictive analysis
+
+Compare with competitors like Zomato for benchmarking
+
+📬 Contact
+For any queries or collaboration:
+
+Name: Dilip Vankayala
+
+Email: dilipv2003@gmail.com
+
+LinkedIn: linkedin.com/in/dilip-vankayala-820a312b2
+
+GitHub: github.com/DilipVankayala

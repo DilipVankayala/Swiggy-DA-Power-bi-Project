@@ -100,5 +100,3 @@ Compare with competitors like Zomato for benchmarking
 **Email**: [dilipv2003@gmail.com](mailto:dilipv2003@gmail.com)  
 **LinkedIn**: [linkedin.com/in/dilip-vankayala-820a312b2](https://linkedin.com/in/dilip-vankayala-820a312b2)  
 **GitHub**: [github.com/DilipVankayala](https://github.com/DilipVankayala)
-
----
